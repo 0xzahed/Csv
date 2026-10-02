@@ -1,0 +1,500 @@
+"<p><strong><span style=""font-size: 18px;""> Which sentence avoids assigning gender to an occupation? </span></strong></p>",1,One,
+,<p>Only women can work as nurses.</p>
+*,<p>The nurse asked the patient to wait.</p>
+,<p>Every nurse is a woman.</p>
+,<p>A nurse must always be called 'she'.</p>
+"<p><strong><span style=""font-size: 18px;""> The curator displayed two ___ of the battle. </span></strong></p>",1,One,
+,<p>painting's</p>
+,<p>paintingses</p>
+,<p>painting</p>
+*,<p>paintings</p>
+"<p><strong><span style=""font-size: 18px;""> Each sister looked at the other. They looked at ___ and smiled. </span></strong></p>",1,One,
+*,<p>each other</p>
+,<p>itself</p>
+,<p>themselves</p>
+,<p>herself</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the established masculine-feminine animal pair. </span></strong></p>",1,One,
+,<p>ram - mare</p>
+,<p>boar - ewe</p>
+*,<p>drake - duck</p>
+,<p>bull - hen</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the correctly punctuated use of a contrast connector. </span></strong></p>",1,One,
+,"<p>The task was difficult nevertheless, we finished it.</p>"
+*,"<p>The task was difficult; nevertheless, we finished it.</p>"
+,"<p>The task was difficult; nevertheless we, finished it.</p>"
+,"<p>The task was difficult, nevertheless, we finished it.</p>"
+"<p><strong><span style=""font-size: 18px;""> After a difficult recital, the audience shouts 'Bravo!' What is its function? </span></strong></p>",1,One,
+*,<p>to express praise</p>
+,<p>to signal regret</p>
+,<p>to request silence</p>
+,<p>to express physical pain</p>
+"<p><strong><span style=""font-size: 18px;""> The students who revised regularly ___ confident about their answers. </span></strong></p>",1,One,
+,<p>was</p>
+,<p>is</p>
+*,<p>are</p>
+,<p>has been</p>
+"<p><strong><span style=""font-size: 18px;""> The principal ___ signed the certificates, rather than asking an assistant. </span></strong></p>",1,One,
+,<p>her</p>
+,<p>hers</p>
+*,<p>herself</p>
+,<p>she</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the sentence that clearly states that Mina lost Mina's own notebook. </span></strong></p>",1,One,
+,<p>Mina told Rina that she had lost her notebook.</p>
+*,"<p>Mina told Rina, 'I have lost my notebook.'</p>"
+,<p>Mina told Rina that her notebook was missing.</p>
+,<p>Mina told Rina about her lost notebook.</p>
+"<p><strong><span style=""font-size: 18px;""> Neither Rafi ___ Sumi knew the answer. </span></strong></p>",1,One,
+,<p>but</p>
+,<p>and</p>
+*,<p>nor</p>
+,<p>or</p>
+"<p><strong><span style=""font-size: 18px;""> It was ___ a noisy room that we could not hear the speaker. </span></strong></p>",1,One,
+,<p>so</p>
+,<p>enough</p>
+*,<p>such</p>
+,<p>too</p>
+"<p><strong><span style=""font-size: 18px;""> The rules allow entry only if a ticket is shown. Which sentence preserves that condition? </span></strong></p>",1,One,
+,<p>Entry is allowed even if no ticket is shown.</p>
+*,<p>Entry is allowed provided that a ticket is shown.</p>
+,<p>Entry is allowed whether or not a ticket is shown.</p>
+,<p>Entry is allowed although no ticket is shown.</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the connector expressing precaution: 'Take an umbrella ___ it rains later.' </span></strong></p>",1,One,
+,<p>unless</p>
+*,<p>in case</p>
+,<p>whereas</p>
+,<p>even though</p>
+"<p><strong><span style=""font-size: 18px;""> The speaker was not only clear ___ persuasive. </span></strong></p>",1,One,
+,<p>nor yet</p>
+*,<p>but also</p>
+,<p>or else</p>
+,<p>and also</p>
+"<p><strong><span style=""font-size: 18px;""> The red bag is hers; the blue bags are ___. </span></strong></p>",1,One,
+,<p>them</p>
+,<p>their</p>
+,<p>themselves</p>
+*,<p>theirs</p>
+"<p><strong><span style=""font-size: 18px;""> The room was ___ crowded that we could not enter. </span></strong></p>",1,One,
+,<p>enough</p>
+*,<p>so</p>
+,<p>such</p>
+,<p>too</p>
+"<p><strong><span style=""font-size: 18px;""> Several unusual ___ were observed during the experiment. </span></strong></p>",1,One,
+,<p>phenomenonses</p>
+*,<p>phenomena</p>
+,<p>phenomenon</p>
+,<p>phenomenae</p>
+"<p><strong><span style=""font-size: 18px;""> Both of his ___ are lawyers. </span></strong></p>",1,One,
+,<p>sisters-in-laws</p>
+,<p>sister-in-law</p>
+,<p>sister-in-laws</p>
+*,<p>sisters-in-law</p>
+"<p><strong><span style=""font-size: 18px;""> The tailor used two ___ to cut the cloth. </span></strong></p>",1,One,
+*,<p>pairs of scissors</p>
+,<p>pair of scissors</p>
+,<p>scissorses</p>
+,<p>scissor pairses</p>
+"<p><strong><span style=""font-size: 18px;""> Which word denotes a female deer? </span></strong></p>",1,One,
+,<p>buck</p>
+,<p>bull</p>
+*,<p>doe</p>
+,<p>stallion</p>
+"<p><strong><span style=""font-size: 18px;""> The players collected their medals and put ___ in their bags. </span></strong></p>",1,One,
+,<p>it</p>
+,<p>they</p>
+,<p>its</p>
+*,<p>them</p>
+"<p><strong><span style=""font-size: 18px;""> This pen belongs to me. It is ___. </span></strong></p>",1,One,
+,<p>me</p>
+,<p>my</p>
+,<p>myself</p>
+*,<p>mine</p>
+"<p><strong><span style=""font-size: 18px;""> ___ of these two routes is shorter? </span></strong></p>",1,One,
+,<p>Whom</p>
+,<p>Who</p>
+*,<p>Which</p>
+,<p>Whose</p>
+"<p><strong><span style=""font-size: 18px;""> In formal impersonal usage: 'One should keep ___ promises.' </span></strong></p>",1,One,
+,<p>oneself</p>
+*,<p>one's</p>
+,<p>ones</p>
+,<p>ones'</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the sentence with correct parallel correlative placement. </span></strong></p>",1,One,
+,<p>She wants neither to study medicine or to study engineering.</p>
+*,<p>She wants either to study medicine or to study engineering.</p>
+,<p>She wants both to study medicine or to study engineering.</p>
+,<p>She wants either to study medicine nor to study engineering.</p>
+"<p><strong><span style=""font-size: 18px;""> The librarian wants everyone to be quiet. Which interjection fits? </span></strong></p>",1,One,
+*,<p>Shh!</p>
+,<p>Alas!</p>
+,<p>Wow!</p>
+,<p>Bravo!</p>
+"<p><strong><span style=""font-size: 18px;""> I have two spare calculators. You may borrow ___ of them; both work. </span></strong></p>",1,One,
+*,<p>either</p>
+,<p>every</p>
+,<p>neither</p>
+,<p>all</p>
+"<p><strong><span style=""font-size: 18px;""> Which pair correctly matches masculine and feminine titles? </span></strong></p>",1,One,
+,<p>earl - princess</p>
+*,<p>duke - duchess</p>
+,<p>prince - queen</p>
+,<p>duke - countess</p>
+"<p><strong><span style=""font-size: 18px;""> The farmer keeps twelve ___. </span></strong></p>",1,One,
+,<p>sheeps</p>
+,<p>sheepes</p>
+,<p>sheep's</p>
+*,<p>sheep</p>
+"<p><strong><span style=""font-size: 18px;""> Which connector makes the second sentence an additional supporting point? 'The hostel is affordable. ___, it is close to campus.' </span></strong></p>",1,One,
+,<p>Nevertheless</p>
+,<p>Instead</p>
+*,<p>Moreover</p>
+,<p>Consequently</p>
+"<p><strong><span style=""font-size: 18px;""> The word 'sibling' may refer to a brother or a sister. It is a ___ gender noun. </span></strong></p>",1,One,
+,<p>feminine</p>
+,<p>neuter</p>
+,<p>masculine</p>
+*,<p>common</p>
+"<p><strong><span style=""font-size: 18px;""> ___ Bangladesh is a riverine country, it sometimes faces a scarcity of flowing water. </span></strong></p>",1,One,
+,<p>Because of</p>
+,<p>In spite of</p>
+,<p>Despite</p>
+*,<p>Although</p>
+"<p><strong><span style=""font-size: 18px;""> You suddenly touch a hot pan. Which interjection directly expresses pain? </span></strong></p>",1,One,
+*,<p>Ouch!</p>
+,<p>Alas!</p>
+,<p>Bravo!</p>
+,<p>Hurrah!</p>
+"<p><strong><span style=""font-size: 18px;""> No sooner had the lecture started ___ the power failed. </span></strong></p>",1,One,
+,<p>that</p>
+,<p>then</p>
+*,<p>than</p>
+,<p>when</p>
+"<p><strong><span style=""font-size: 18px;""> Each of the two answers ___ a different pronoun. </span></strong></p>",1,One,
+,<p>are containing</p>
+*,<p>contains</p>
+,<p>contain</p>
+,<p>have contained</p>
+"<p><strong><span style=""font-size: 18px;""> Hardly had we sat down ___ the bell rang. </span></strong></p>",1,One,
+*,<p>when</p>
+,<p>than</p>
+,<p>that</p>
+,<p>then</p>
+"<p><strong><span style=""font-size: 18px;""> Mira bought a notebook ___ a pen. </span></strong></p>",1,One,
+,<p>but</p>
+,<p>because</p>
+,<p>although</p>
+*,<p>and</p>
+"<p><strong><span style=""font-size: 18px;""> ___ the heavy rain, the match continued. </span></strong></p>",1,One,
+,<p>Even though</p>
+,<p>Although</p>
+*,<p>Despite</p>
+,<p>Because</p>
+"<p><strong><span style=""font-size: 18px;""> The feminine counterpart of 'king' is ___. </span></strong></p>",1,One,
+,<p>countess</p>
+,<p>princess</p>
+*,<p>queen</p>
+,<p>duchess</p>
+"<p><strong><span style=""font-size: 18px;""> In traditional classification, 'orphan' is a ___ gender noun. </span></strong></p>",1,One,
+,<p>neuter</p>
+,<p>masculine</p>
+,<p>feminine</p>
+*,<p>common</p>
+"<p><strong><span style=""font-size: 18px;""> In formal English: 'The candidate ___ we believe will lead the team is here.' </span></strong></p>",1,One,
+,<p>whose</p>
+,<p>whom</p>
+*,<p>who</p>
+,<p>which</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the connector expressing a result: 'The roads were flooded, ___ the school remained closed.' </span></strong></p>",1,One,
+,<p>unless</p>
+,<p>whereas</p>
+*,<p>so</p>
+,<p>although</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the connector contrasting two preferences: 'Rafi prefers reading, ___ his brother prefers outdoor games.' </span></strong></p>",1,One,
+,<p>unless</p>
+*,<p>whereas</p>
+,<p>so</p>
+,<p>because</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the standard sentence. </span></strong></p>",1,One,
+*,<p>She gave me useful advice.</p>
+,<p>She gave me useful advices.</p>
+,<p>She gave me an useful advice.</p>
+,<p>She gave me many advice.</p>
+"<p><strong><span style=""font-size: 18px;""> He cannot afford a bicycle, ___ a car. </span></strong></p>",1,One,
+*,<p>let alone</p>
+,<p>as well as</p>
+,<p>in addition to</p>
+,<p>because of</p>
+"<p><strong><span style=""font-size: 18px;""> A speaker says, 'Alas! The old library has been destroyed.' 'Alas' expresses ___. </span></strong></p>",1,One,
+,<p>approval</p>
+*,<p>sorrow</p>
+,<p>relief</p>
+,<p>greeting</p>
+"<p><strong><span style=""font-size: 18px;""> In formal English: 'Give the prize to ___ wins the final.' </span></strong></p>",1,One,
+*,<p>whoever</p>
+,<p>whose</p>
+,<p>whomever</p>
+,<p>whom</p>
+"<p><strong><span style=""font-size: 18px;""> The museum needs three new ___ for the exhibition. </span></strong></p>",1,One,
+*,<p>showcases</p>
+,<p>showscase</p>
+,<p>showcase</p>
+,<p>showcaseses</p>
+"<p><strong><span style=""font-size: 18px;""> Which word specifically denotes a man whose spouse has died? </span></strong></p>",1,One,
+,<p>widow</p>
+*,<p>widower</p>
+,<p>spouse</p>
+,<p>partner</p>
+"<p><strong><span style=""font-size: 18px;""> The boy ___ won the race is my cousin. </span></strong></p>",1,One,
+,<p>whose</p>
+,<p>what</p>
+,<p>whom</p>
+*,<p>who</p>
+"<p><strong><span style=""font-size: 18px;""> In formal English: 'To ___ should I address the letter?' </span></strong></p>",1,One,
+,<p>whose</p>
+,<p>whoever</p>
+*,<p>whom</p>
+,<p>who</p>
+"<p><strong><span style=""font-size: 18px;""> The researcher compared three statistical ___. </span></strong></p>",1,One,
+*,<p>analyses</p>
+,<p>analysis</p>
+,<p>analysies</p>
+,<p>analysises</p>
+"<p><strong><span style=""font-size: 18px;""> The teacher thanked the students, all of ___ had helped with the exhibition. </span></strong></p>",1,One,
+*,<p>whom</p>
+,<p>who</p>
+,<p>that</p>
+,<p>whose</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the standard sentence about academic subjects. </span></strong></p>",1,One,
+,<p>Physics were my favourite subjects.</p>
+,<p>Physics are my favourite subject.</p>
+,<p>Physics have my favourite subject.</p>
+*,<p>Physics is my favourite subject.</p>
+"<p><strong><span style=""font-size: 18px;""> The workers received compensation for damage to the building. In this sentence, 'damage' is ___. </span></strong></p>",1,One,
+,<p>a plural form of damages</p>
+,<p>a singular count noun with an omitted article</p>
+,<p>a plural count noun</p>
+*,<p>uncountable</p>
+"<p><strong><span style=""font-size: 18px;""> Several ___ were stacked on the shelf. </span></strong></p>",1,One,
+,<p>boxies</p>
+*,<p>boxes</p>
+,<p>boxs</p>
+,<p>box</p>
+"<p><strong><span style=""font-size: 18px;""> The girl can ___ dance nor sing. </span></strong></p>",1,One,
+,<p>either</p>
+,<p>whether</p>
+*,<p>neither</p>
+,<p>both</p>
+"<p><strong><span style=""font-size: 18px;""> Two ___ were waiting outside the classroom. </span></strong></p>",1,One,
+*,<p>children</p>
+,<p>childs</p>
+,<p>childes</p>
+,<p>child</p>
+"<p><strong><span style=""font-size: 18px;""> Hurry up; ___, you will miss the bus. </span></strong></p>",1,One,
+,<p>nevertheless</p>
+,<p>moreover</p>
+,<p>similarly</p>
+*,<p>otherwise</p>
+"<p><strong><span style=""font-size: 18px;""> The child saw three ___ near the pond. </span></strong></p>",1,One,
+,<p>goose's</p>
+*,<p>geese</p>
+,<p>goose</p>
+,<p>gooses</p>
+"<p><strong><span style=""font-size: 18px;""> In traditional noun classification, 'table' is of ___ gender. </span></strong></p>",1,One,
+*,<p>neuter</p>
+,<p>feminine</p>
+,<p>common</p>
+,<p>masculine</p>
+"<p><strong><span style=""font-size: 18px;""> The teacher asked Rafi and ___ to stay after class. </span></strong></p>",1,One,
+,<p>I</p>
+,<p>my</p>
+*,<p>me</p>
+,<p>mine</p>
+"<p><strong><span style=""font-size: 18px;""> Your team has won the final. Which interjection expresses celebration? </span></strong></p>",1,One,
+,<p>Alas!</p>
+*,<p>Hurrah!</p>
+,<p>Ouch!</p>
+,<p>Shh!</p>
+"<p><strong><span style=""font-size: 18px;""> We divided the work among ___. </span></strong></p>",1,One,
+,<p>one another's</p>
+,<p>ourself</p>
+,<p>themselves</p>
+*,<p>ourselves</p>
+"<p><strong><span style=""font-size: 18px;""> A monarch may be a king or a queen. 'Monarch' is therefore of ___ gender. </span></strong></p>",1,One,
+*,<p>common</p>
+,<p>masculine</p>
+,<p>feminine</p>
+,<p>neuter</p>
+"<p><strong><span style=""font-size: 18px;""> I sent a reminder ___ everyone would remember the deadline. </span></strong></p>",1,One,
+,<p>because of</p>
+,<p>despite</p>
+*,<p>so that</p>
+,<p>instead of</p>
+"<p><strong><span style=""font-size: 18px;""> The library bought five new ___. </span></strong></p>",1,One,
+*,<p>dictionaries</p>
+,<p>dictionary</p>
+,<p>dictionaryes</p>
+,<p>dictionarys</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the correct sentence. </span></strong></p>",1,One,
+,<p>A friend of my called today.</p>
+*,<p>A friend of mine called today.</p>
+,<p>A friend of me called today.</p>
+,<p>A friend of myself called today.</p>
+"<p><strong><span style=""font-size: 18px;""> We prepared the entire display by ___, without any help. </span></strong></p>",1,One,
+,<p>ourself</p>
+*,<p>ourselves</p>
+,<p>ours</p>
+,<p>us</p>
+"<p><strong><span style=""font-size: 18px;""> A job notice is open to applicants of every gender. Which title is explicitly gender-neutral? </span></strong></p>",1,One,
+*,<p>chairperson</p>
+,<p>chairlady</p>
+,<p>chairwoman</p>
+,<p>chairman</p>
+"<p><strong><span style=""font-size: 18px;""> In 'Nobody knew the answer', 'Nobody' is a/an ___. </span></strong></p>",1,One,
+,<p>reciprocal pronoun</p>
+,<p>demonstrative pronoun</p>
+*,<p>indefinite pronoun</p>
+,<p>relative pronoun</p>
+"<p><strong><span style=""font-size: 18px;""> The plan was costly; ___, it was approved. </span></strong></p>",1,One,
+,<p>otherwise</p>
+*,<p>however</p>
+,<p>moreover</p>
+,<p>therefore</p>
+"<p><strong><span style=""font-size: 18px;""> Rupa cut ___ while slicing vegetables. </span></strong></p>",1,One,
+,<p>themselves</p>
+,<p>itself</p>
+*,<p>herself</p>
+,<p>himself</p>
+"<p><strong><span style=""font-size: 18px;""> A male horse used for breeding is a stallion; the female horse is a ___. </span></strong></p>",1,One,
+,<p>ewe</p>
+,<p>sow</p>
+,<p>doe</p>
+*,<p>mare</p>
+"<p><strong><span style=""font-size: 18px;""> Which word can refer to a person of any gender living next door? </span></strong></p>",1,One,
+,<p>baroness</p>
+,<p>niece</p>
+*,<p>neighbour</p>
+,<p>nephew</p>
+"<p><strong><span style=""font-size: 18px;""> You and Salma should submit ___ applications together. </span></strong></p>",1,One,
+,<p>you</p>
+*,<p>your</p>
+,<p>yourself</p>
+,<p>yours</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the connector expressing the reason: 'He stayed home ___ he had a fever.' </span></strong></p>",1,One,
+*,<p>because</p>
+,<p>although</p>
+,<p>unless</p>
+,<p>whereas</p>
+"<p><strong><span style=""font-size: 18px;""> The laboratory ordered two optical ___. </span></strong></p>",1,One,
+*,<p>lenses</p>
+,<p>lense's</p>
+,<p>lenss</p>
+,<p>lens</p>
+"<p><strong><span style=""font-size: 18px;""> Which word is a demonstrative pronoun in 'Those are my books'? </span></strong></p>",1,One,
+*,<p>Those</p>
+,<p>are</p>
+,<p>books</p>
+,<p>my</p>
+"<p><strong><span style=""font-size: 18px;""> I do not know ___ the office is open or closed. </span></strong></p>",1,One,
+,<p>unless</p>
+,<p>although</p>
+,<p>because</p>
+*,<p>whether</p>
+"<p><strong><span style=""font-size: 18px;""> Several ___ stopped to help. Choose the standard plural of 'passer-by'. </span></strong></p>",1,One,
+,<p>passer-by</p>
+,<p>passer-bys</p>
+*,<p>passers-by</p>
+,<p>passers-bys</p>
+"<p><strong><span style=""font-size: 18px;""> In formal English: 'The candidate ___ we interviewed yesterday is here.' </span></strong></p>",1,One,
+*,<p>whom</p>
+,<p>whose</p>
+,<p>which</p>
+,<p>what</p>
+"<p><strong><span style=""font-size: 18px;""> This pair of scissors ___ blunt. </span></strong></p>",1,One,
+,<p>have been</p>
+,<p>are</p>
+,<p>were</p>
+*,<p>is</p>
+"<p><strong><span style=""font-size: 18px;""> Which sentence uses 'that' as a relative pronoun? </span></strong></p>",1,One,
+,<p>I know that he reads.</p>
+,<p>That is my book.</p>
+,<p>That book is mine.</p>
+*,<p>The book that fell is mine.</p>
+"<p><strong><span style=""font-size: 18px;""> All the ___ in this building have separate entrances. </span></strong></p>",1,One,
+,<p>roofies</p>
+*,<p>roofs</p>
+,<p>rooveses</p>
+,<p>roof</p>
+"<p><strong><span style=""font-size: 18px;""> The female of a ram is a/an ___. </span></strong></p>",1,One,
+,<p>hen</p>
+,<p>doe</p>
+,<p>mare</p>
+*,<p>ewe</p>
+"<p><strong><span style=""font-size: 18px;""> You will not be admitted ___ you show a valid entry card. </span></strong></p>",1,One,
+*,<p>unless</p>
+,<p>because</p>
+,<p>although</p>
+,<p>whereas</p>
+"<p><strong><span style=""font-size: 18px;""> In 'While Rina likes tea, Mina prefers coffee', 'while' expresses ___. </span></strong></p>",1,One,
+,<p>purpose</p>
+*,<p>contrast</p>
+,<p>condition</p>
+,<p>result</p>
+"<p><strong><span style=""font-size: 18px;""> The report, ___ was published yesterday, contains the final results. </span></strong></p>",1,One,
+,<p>what</p>
+,<p>whose</p>
+,<p>that</p>
+*,<p>which</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the correctly structured sentence. </span></strong></p>",1,One,
+,"<p>Despite it was late, we continued working.</p>"
+,"<p>Although it was late, but we continued working.</p>"
+*,"<p>Although it was late, we continued working.</p>"
+,"<p>In spite it was late, we continued working.</p>"
+"<p><strong><span style=""font-size: 18px;""> We met a scientist ___ research has won international recognition. </span></strong></p>",1,One,
+,<p>whom</p>
+,<p>which</p>
+*,<p>whose</p>
+,<p>who</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the connector that explicitly introduces the reason: '___ the bridge was closed, we took another route.' </span></strong></p>",1,One,
+,<p>Whereas</p>
+,<p>Unless</p>
+*,<p>Since</p>
+,<p>Although</p>
+"<p><strong><span style=""font-size: 18px;""> The police ___ investigating the incident. </span></strong></p>",1,One,
+*,<p>are</p>
+,<p>is</p>
+,<p>was</p>
+,<p>has</p>
+"<p><strong><span style=""font-size: 18px;""> Which sentence uses the emphatic pronoun correctly without substituting it for an ordinary subject? </span></strong></p>",1,One,
+*,<p>The students themselves checked the answers.</p>
+,<p>Herself checked the answers.</p>
+,<p>Themselves checked the answers.</p>
+,<p>Ourselves checked the answers.</p>
+"<p><strong><span style=""font-size: 18px;""> Which sentence correctly uses 'means' for one method? </span></strong></p>",1,One,
+,<p>One effective means have regular practice.</p>
+,<p>One effective means are regular practice.</p>
+,<p>One effective means were regular practices.</p>
+*,<p>One effective means is regular practice.</p>
+"<p><strong><span style=""font-size: 18px;""> ___ called while you were away, but they did not leave a name. </span></strong></p>",1,One,
+,<p>Anyone of</p>
+,<p>Every</p>
+*,<p>Someone</p>
+,<p>No any</p>
+"<p><strong><span style=""font-size: 18px;""> You may choose either tea ___ coffee. </span></strong></p>",1,One,
+,<p>but</p>
+*,<p>or</p>
+,<p>nor</p>
+,<p>and</p>
+"<p><strong><span style=""font-size: 18px;""> ___ the guests arrived, we served dinner immediately. </span></strong></p>",1,One,
+,<p>Unless</p>
+,<p>Despite</p>
+,<p>Whereas</p>
+*,<p>As soon as</p>
+"<p><strong><span style=""font-size: 18px;""> Choose the connector expressing the endpoint of waiting: 'Wait here ___ the bus arrives.' </span></strong></p>",1,One,
+,<p>whereas</p>
+,<p>despite</p>
+,<p>unless</p>
+*,<p>until</p>
+"<p><strong><span style=""font-size: 18px;""> The gender-neutral term for a mother or a father is ___. </span></strong></p>",1,One,
+,<p>widow</p>
+,<p>uncle</p>
+,<p>niece</p>
+*,<p>parent</p>
